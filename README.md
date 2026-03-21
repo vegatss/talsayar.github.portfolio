@@ -15,7 +15,7 @@ Open `index.html` and replace the placeholder text, links, and colors with your 
 
 ## Author
 
-Built and published by [vuguul](https://github.com/vuguul).
+Built and published by Valaksi.
 
 ## License
 
